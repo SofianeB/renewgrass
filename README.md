@@ -1,4 +1,4 @@
 # renewgrass.github.io
 RenewGrass documentation
 
-http://sofianeb.github.io/renewgrass.github.io/
+http://sofianeb.github.io/renewgrass/
